@@ -1,0 +1,10 @@
+com\example\bigtable\FiltersTest.class
+com\example\bigtable\BigtableBaseTest.class
+com\example\bigtable\MobileTimeSeriesBaseTest.class
+com\example\bigtable\InstanceAdminExampleTest.class
+com\example\bigtable\ReadsTest.class
+com\example\bigtable\TableAdminExampleTest.class
+com\example\bigtable\ConfigureConnectionPoolTest.class
+com\example\bigtable\QuickstartTest.class
+com\example\bigtable\WritesTest.class
+com\example\bigtable\HelloWorldTest.class

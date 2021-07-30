@@ -1,0 +1,11 @@
+com\example\bigtable\InstanceAdminExample.class
+com\example\bigtable\TableAdminExample.class
+com\example\bigtable\Reads.class
+com\example\bigtable\WriteBatch.class
+com\example\bigtable\Quickstart.class
+com\example\bigtable\ConfigureConnectionPool.class
+com\example\bigtable\Filters.class
+com\example\bigtable\WriteSimple.class
+com\example\bigtable\HelloWorld.class
+com\example\bigtable\WriteIncrement.class
+com\example\bigtable\WriteConditionally.class
